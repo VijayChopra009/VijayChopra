@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VijayChopra009
+- 👋 Hi, I’m Vijay Chopra
 - 👀 I’m interested in Java Full Stack
 - 🌱 I’m currently learning making Websites and Desktop applications
 - 💞️ I’m looking to collaborate on ...
